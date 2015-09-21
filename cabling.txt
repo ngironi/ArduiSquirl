@@ -1,0 +1,11 @@
+On arduino MEGA2560
+Accelerometer cabling ON the IIC ports
+	SDA <--> sda
+	SCL <--> scl 
+	GND <--> gnd
+	VCC <--> vcc
+LED cabling
+	GND <--> gnd
+	DIGITAL 12 <--> Green
+	DIGITAL 11 <--> Red
+	DIGITAL 10 <--> Blue	 
